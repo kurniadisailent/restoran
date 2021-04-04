@@ -1,0 +1,6 @@
+.max-text-length-table{
+  max-width:170px; /* Customise it accordingly */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
